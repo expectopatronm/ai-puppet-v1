@@ -3,7 +3,6 @@
 
 ![Demo Animation](data/outputs/animation_tha3.gif)
 
----
 
 ## Goal
 
