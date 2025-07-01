@@ -262,11 +262,12 @@ def animate_sentence(
 
 
 if __name__ == "__main__":
+    import os
     env = Environment(loader=FileSystemLoader("."))
     template = env.get_template("prompt_template.txt")
     prompt = template.render(sentence="Navigation to the nearest LIDL has been initiated!")
 
-    client = genai.Client(api_key="AIzaSyDmQ9pMcY8drmu2T9hNCZ_45yusnlSxLNk")
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
     t0 = time.time()
     llm_resp = client.models.generate_content(
         model="gemini-2.5-flash-lite-preview-06-17",
