@@ -20,12 +20,11 @@ This system produces only **10–20 expressive keyframes** per sentence, which a
 ## What Makes It Different?
 
 Unlike traditional talking-heads animation that rely purely on phoneme-to-mouth mapping, this system:
-
-✅ Embeds **emotion and tone** via brows, eyes, head/body  
-✅ Adds **gaze dynamics, blinks, breathing**  
-✅ Uses a **viseme+emotion composition model**  
-✅ Follows **coarticulation rules** and **speech rhythm**  
-✅ Generates animation plans using a **language model prompt** grounded in animation principles
+- Embeds **emotion and tone** via brows, eyes, head/body  
+- Adds **gaze dynamics, blinks, breathing**  
+- Uses a **viseme+emotion composition model**  
+- Follows **coarticulation rules** and **speech rhythm**  
+- Generates animation plans using a **language model prompt** grounded in animation principles
 
 ---
 
