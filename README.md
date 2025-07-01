@@ -109,13 +109,6 @@ All are marked with `"interpolate_to_next": true`, except final.
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/your-username/tha3-animation.git
-cd tha3-animation
-pip install -r requirements.txt
-
 ## Core Components
 
 ### `create_pose(...)`
