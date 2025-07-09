@@ -175,7 +175,7 @@ Script that brings everything together:
 
 ## Acknowledgments
 
-- [THA3](https://github.com/hyperpose/THA3): Torch-based 2D poser and avatar animation system
+- [THA3](https://github.com/pkhungurn/talking-head-anime-3-demo)): Torch-based 2D poser and avatar animation system
 - [Google Gemini](https://ai.google.dev): High-speed LLM used for pose planning
 - Foundational works in animation research:
   - Cassell et al., “Animated Conversation” (1994)
