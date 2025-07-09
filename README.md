@@ -166,7 +166,7 @@ Script that brings everything together:
 **License:** MIT
 
 **Credits:**
-- Core animation model and poser logic by [THA3 (TorchHub Animation 3)](https://github.com/hyperpose/THA3)
+- Core animation model and poser logic by [THA3](https://github.com/pkhungurn/talking-head-anime-3-demo)
 - Animation logic and expressive pose authoring developed on top of THA3’s APIs
 - Prompt-based pose generation powered by Google Gemini LLM
 - Character portrait from [Crypko.ai](https://crypko.ai) (non-commercial use only)
